@@ -39,7 +39,7 @@ def KMeans(Data, k):
             Distance[i][j] = math.dist(Data[i], centroid[j])
     
 def Visulaize(matfile):
-    
+
 
 
 if __name__ == '__main__':
